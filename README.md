@@ -1,7 +1,7 @@
 # ogb-molecule-comp
 This repository houses code for submission to the Open Graph Benchmark (OGB).
 
-Results were submitted on September 21st, 2020.
+Results were submitted on September 21st, 2020 on behalf of Vir Biotechnology (www.vir.bio).
 
 This submission focuses on two competitions related to molecular classification.
 
